@@ -8,7 +8,7 @@ public class BlockingQueueExampleTest {
 
     @Test
     public void test() {
-
+        System.out.println("Test");
     }
 
 }
